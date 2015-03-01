@@ -1,0 +1,14 @@
+{
+  "name": "tdd-boiler",
+  "version": "0.0.0",
+  "description": "tdd boilerplate for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliot Baker",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
